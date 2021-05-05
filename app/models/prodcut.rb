@@ -1,2 +1,0 @@
-class Prodcut < ApplicationRecord
-end
